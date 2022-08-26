@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/count-the-triplets/0
+// https://practice.geeksforgeeks.org/problems/count-the-triplets/0
 
 
 Class Solution{
