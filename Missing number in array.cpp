@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
+// https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
 
 class Solution{
   public:
